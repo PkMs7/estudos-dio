@@ -1,2 +1,4 @@
-# estudos-dio
-Projetos e anotações dos cursos feitos na Dio
+# Guia de Conquistas Dio
+
+- [x] Introdução....
+- [] .....
